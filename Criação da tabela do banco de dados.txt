@@ -1,0 +1,5 @@
+CREATE TABLE CLIENTES (
+    NOME VARCHAR(50),
+    TIPO varchar(8),
+    SALDO DOUBLE
+);
